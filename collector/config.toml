@@ -1,0 +1,13 @@
+[market]
+timezone = "Asia/Colombo"
+open_time = "09:30"
+close_time = "14:30"
+poll_interval_open_seconds = 45
+poll_interval_closed_seconds = 900
+
+[network]
+base_url = "https://www.cse.lk"
+user_agent = "cse-live-collector/0.2 (local research tool)"
+timeout_seconds = 15
+backoff_base_seconds = 2
+backoff_max_seconds = 300

@@ -1,5 +1,11 @@
 # START HERE
 
+> **Update (2026-09-14):** this file describes how Phase 1 was originally built as a local
+> single-process app. That local version is retired -- the project now runs on Supabase +
+> Netlify + a separately-hosted collector. For current setup/deployment steps, see `README.md`.
+> The phase-by-phase build plan below (and `SPEC.md` §6) is still accurate; only *where it runs*
+> changed. Kept as-is for history.
+
 Four files are already in this folder. Claude Code reads `CLAUDE.md` automatically.
 
 | File | What it is |

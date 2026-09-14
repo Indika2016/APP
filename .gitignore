@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local SQLite artifacts (obsolete now that storage is Supabase, but ignore
+# just in case a local DB ever gets created again during dev/testing)
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# secrets
+.env
+.env.*
+!.env.example
+
+# Node / Netlify
+node_modules/
+.netlify/
+web/dist/
+
+# editor/OS
+.DS_Store
+Thumbs.db
