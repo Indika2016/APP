@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CSE Live</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">CSE Live</div>
+    <div class="market-status">
+      <span id="market-pill" class="pill pill-unknown">&hellip;</span>
+      <span class="metric"><span class="metric-label">ASPI</span><span id="aspi-value">&mdash;</span></span>
+      <span class="metric"><span class="metric-label">S&amp;P SL20</span><span id="snp-value">&mdash;</span></span>
+      <span class="metric"><span class="metric-label">Turnover</span><span id="turnover-value">&mdash;</span></span>
+    </div>
+    <div class="conn">
+      <span id="conn-dot" class="dot dot-unknown" title="connecting&hellip;"></span>
+      <span id="as-of">data as of &mdash;</span>
+    </div>
+  </header>
+
+  <main>
+    <div class="toolbar">
+      <label class="toggle">
+        <input type="checkbox" id="watchlist-toggle" checked>
+        Watchlist only
+      </label>
+      <input type="search" id="filter-box" placeholder="Filter by symbol or name&hellip;">
+      <span id="row-count" class="row-count"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table id="quotes-table">
+        <thead>
+          <tr>
+            <th data-key="symbol">Symbol</th>
+            <th data-key="name">Name</th>
+            <th data-key="price" class="num">Price</th>
+            <th data-key="change" class="num">Change</th>
+            <th data-key="pct_change" class="num">Change %</th>
+            <th data-key="share_volume" class="num">Volume</th>
+            <th data-key="turnover" class="num">Turnover</th>
+            <th data-key="trade_volume" class="num">Trades</th>
+            <th data-key="crossing_volume" class="num">Crossings</th>
+            <th data-key="ts_exchange_ms" class="num">Last traded</th>
+          </tr>
+        </thead>
+        <tbody id="quotes-body"></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer>
+    <p>
+      Public CSE website feed. May lag the matching engine. Not a licensed tick feed. Not investment advice.
+      <span id="records-since"></span>
+    </p>
+  </footer>
+
+  <script src="/app.js"></script>
+</body>
+</html>

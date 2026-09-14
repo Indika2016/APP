@@ -1,0 +1,51 @@
+symbol,short_code,name,sector,selection_basis,beta_aspi,liquidity_note
+DIAL.N0000,DIAL,Dialog Axiata PLC,Telecommunications,Both,1.402,
+JKH.N0000,JKH,John Keells Holdings PLC,Diversified Holdings,Both,1.003,
+COMB.N0000,COMB,Commercial Bank of Ceylon PLC,Banks,Both,0.791,
+CTC.N0000,CTC,Ceylon Tobacco Company PLC,Food Beverage & Tobacco,Dividend,0.205,
+DIST.N0000,DIST,Distilleries Company of Sri Lanka PLC,Food Beverage & Tobacco,Both,0.732,public holding 3.36% - not compliant with CSE minimum float; effectively untradeable
+LOLC.N0000,LOLC,LOLC Holdings PLC,Diversified Financials,Liquidity,0.859,no dividend paid for 10 consecutive years
+MELS.N0000,MELS,Melstacorp PLC,Diversified Holdings,Both,0.783,
+HNB.N0000,HNB,Hatton National Bank PLC,Banks,Both,0.553,
+HAYL.N0000,HAYL,Hayleys PLC,Diversified Holdings,Both,0.849,
+CARG.N0000,CARG,Cargills (Ceylon) PLC,Food & Staples Retailing,Both,0.43,
+SAMP.N0000,SAMP,Sampath Bank PLC,Banks,Both,0.676,
+SLTL.N0000,SLTL,Sri Lanka Telecom PLC,Telecommunications,Liquidity,1.162,
+LOFC.N0000,LOFC,LOLC Finance PLC,Diversified Financials,Liquidity,0.947,
+CARS.N0000,CARS,Carson Cumberbatch PLC,Food Beverage & Tobacco,Dividend,1.008,high turnover on very few trades - block/crossing counter, not order-book liquidity
+LION.N0000,LION,Lion Brewery (Ceylon) PLC,Food Beverage & Tobacco,Dividend,0.116,high turnover on very few trades - block/crossing counter, not order-book liquidity
+CCS.N0000,CCS,Ceylon Cold Stores PLC,Food Beverage & Tobacco,Both,1.243,
+CTHR.N0000,CTHR,C T Holdings PLC,Food & Staples Retailing,Dividend,0.426,high turnover on very few trades - block/crossing counter, not order-book liquidity
+NTB.N0000,NTB,Nations Trust Bank PLC,Banks,Both,0.725,
+VONE.N0000,VONE,Vallibel One PLC,Diversified Holdings,Both,1.145,
+SINS.N0000,SINS,Singer (Sri Lanka) PLC,Consumer Durables & Apparel,Liquidity,1.998,
+HHL.N0000,HHL,Hemas Holdings PLC,Diversified Holdings,Both,1.119,
+LFIN.N0000,LFIN,L B Finance PLC,Diversified Financials,Dividend,0.879,
+AEL.N0000,AEL,Access Engineering PLC,Capital Goods,Both,1.401,
+BIL.N0000,BIL,Browns Investments PLC,Diversified Holdings,Liquidity,1.328,loss-making; EPS -1.52
+CINS.N0000,CINS,Ceylinco Holdings PLC,Insurance,Dividend,0.22,
+LIOC.N0000,LIOC,Lanka IOC PLC,Energy,Both,0.506,
+ACL.N0000,ACL,ACL Cables PLC,Capital Goods,Both,1.164,subdivided within last 12 months - needs a corporate_actions row before charting adjusted
+OSEA.N0000,OSEA,Overseas Realty (Ceylon) PLC,Real Estate,Dividend,1.747,
+HAYC.N0000,HAYC,Haycarb PLC,Materials,Both,1.035,
+SUN.N0000,SUN,Sunshine Holdings PLC,Diversified Holdings,Both,1.505,
+SPEN.N0000,SPEN,Aitken Spence PLC,Diversified Holdings,Both,0.662,
+DFCC.N0000,DFCC,DFCC Bank PLC,Banks,Both,0.948,
+WIND.N0000,WIND,WindForce PLC,Utilities,Dividend,0.769,
+RCL.N0000,RCL,Royal Ceramics Lanka PLC,Materials,Both,1.161,
+CIC.N0000,CIC,CIC Holdings PLC,Materials,Both,1.466,subdivided within last 12 months - needs a corporate_actions row before charting adjusted
+RICH.N0000,RICH,Richard Pieris and Company PLC,Diversified Holdings,Both,1.511,
+SEYB.N0000,SEYB,Seylan Bank PLC,Banks,Both,0.849,
+CFIN.N0000,CFIN,Central Finance Company PLC,Diversified Financials,Dividend,1.136,
+LLUB.N0000,LLUB,Chevron Lubricants Lanka PLC,Materials,Dividend,0.734,
+NDB.N0000,NDB,National Development Bank PLC,Banks,Both,0.801,
+WATA.N0000,WATA,Watawala Plantations PLC,Food Beverage & Tobacco,Dividend,1.058,
+PLC.N0000,PLC,People's Leasing & Finance PLC,Diversified Financials,Both,1.113,
+UAL.N0000,UAL,Union Assurance PLC,Insurance,Dividend,0.926,
+ASIR.N0000,ASIR,Asiri Hospital Holdings PLC,Health Care,Both,2.018,
+DIPD.N0000,DIPD,Dipped Products PLC,Materials,Both,1.068,
+COCR.N0000,COCR,Commercial Credit & Finance PLC,Diversified Financials,Dividend,1.405,
+AAIC.N0000,AAIC,Softlogic Life Insurance PLC,Insurance,Both,1.191,
+UML.N0000,UML,United Motors Lanka PLC,Retailing,Dividend,2.075,subdivided within last 12 months - needs a corporate_actions row before charting adjusted
+CDB.N0000,CDB,Citizens Development Business Finance PLC,Diversified Financials,Dividend,2.78,subdivided within last 12 months - needs a corporate_actions row before charting adjusted
+TKYO.N0000,TKYO,Tokyo Cement Company (Lanka) PLC,Materials,Both,0.945,
